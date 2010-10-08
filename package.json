@@ -5,6 +5,6 @@
     "main": "./vapor",
     "repository": {
         "type": "git",
-        "url": "git://github.com/madrobby/vapor.js.git"
+        "url": "git://github.com/kenglishhi/vapor.js.git"
     }
 }
